@@ -7,7 +7,6 @@ This application simplifies the retrieval, submission, and updating of stu
 
 ## Features
 - User-Friendly Interface: Intuitive navigation that caters to varying levels of digital literacy.
-- Real-Time Notifications: Automated alerts for newly submitted or updated grades.
 - Secure Authentication: Robust security protocols to ensure data privacy and protection.
 - Student-Lecturer Communication: Integrated chat feature allowing students and lecturers to communicate regarding missing marks.
 - Data Logging: Transparent record-keeping of all grade changes for accountability.
