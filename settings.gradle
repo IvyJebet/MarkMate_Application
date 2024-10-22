@@ -12,9 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-<<<<<<< HEAD
 rootProject.name = "Kabarak University"
-=======
-rootProject.name = "MarkMate Application"
->>>>>>> 2bc37af262f06432fbee2a41645a644e328763a3
 include ':app'
