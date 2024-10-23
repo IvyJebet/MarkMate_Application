@@ -12,7 +12,6 @@ public class MissingMarks {
     private String ExamType;
     private String StudentComment;
 
-
     public MissingMarks(){
     }
     public MissingMarks(String regNo, String studentName, String unitName, String unitCode, String stage, String lecturerName, String examinationSemester, String examYear, String examType, String studentComment) {
