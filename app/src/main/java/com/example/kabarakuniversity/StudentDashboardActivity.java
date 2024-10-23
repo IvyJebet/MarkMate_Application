@@ -61,6 +61,5 @@ public class StudentDashboardActivity extends AppCompatActivity {
                 startActivity(new Intent(StudentDashboardActivity.this, LoginActivity.class));
             }
         });
-
     }
 }
