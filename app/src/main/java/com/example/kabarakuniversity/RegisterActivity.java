@@ -46,7 +46,6 @@ public class RegisterActivity extends AppCompatActivity {
         FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference reference = database.getReference();
 
-
         edUsername = binding.fullName;
         edPassword = binding.password;
         edEmail = binding.email;
