@@ -70,7 +70,3 @@ public class UnitsAdapter extends RecyclerView.Adapter<UnitsAdapter.ViewHolder> 
     }
 
 }
-
-
-
-
