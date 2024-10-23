@@ -10,6 +10,7 @@
     android:paddingRight="10dp"
     android:paddingBottom="10dp"
     tools:context=".RegisterUnit">
+    
 
     <TextView
         android:id="@+id/textViewTitle"
