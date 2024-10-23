@@ -78,7 +78,3 @@ public class GradedUnitsAdapter extends RecyclerView.Adapter<GradedUnitsAdapter.
     }
 
 }
-
-
-
-
