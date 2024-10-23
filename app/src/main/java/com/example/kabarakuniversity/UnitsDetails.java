@@ -40,11 +40,3 @@ public class UnitsDetails extends AppCompatActivity {
 
     }
 }
-
-
-
-
-
-
-
-
