@@ -18,7 +18,6 @@ public class Applied {
         Stage = stage;
         StudentName = studentName;
         RegNo = regNo;
-
     }
 
     public String getUnitName() {
