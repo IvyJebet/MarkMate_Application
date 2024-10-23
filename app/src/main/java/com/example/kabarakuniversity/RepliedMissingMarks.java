@@ -79,7 +79,6 @@ public class RepliedMissingMarks extends AppCompatActivity {
 
             @Override
             public void onCancelled(@NonNull DatabaseError error) {
-
             }
         });
     }
