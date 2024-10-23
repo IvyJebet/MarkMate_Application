@@ -65,7 +65,6 @@ public class AppliedActivity extends AppCompatActivity {
                 marks.clear();
                 for (DataSnapshot ds : snapshot.getChildren()) {
                     marks.add(ds.getValue(MissingMarks.class));
-
                 }
                 recyclerView.setAdapter(new AppliedUnitsAdapter(marks, AppliedActivity.this, onUnitClicked));
                 binding.appliedRecyclerView.setVisibility(View.VISIBLE);
