@@ -14,6 +14,7 @@ public class User {
         this.email = email;
         this.password = password;
         this.role = role;
+        
     }
 
     public String getUsername() {
