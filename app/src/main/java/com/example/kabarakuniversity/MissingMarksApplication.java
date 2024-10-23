@@ -75,7 +75,6 @@ public class MissingMarksApplication extends AppCompatActivity {
 
             @Override
             public void onCancelled(@NonNull DatabaseError error) {
-
             }
         });
     }
