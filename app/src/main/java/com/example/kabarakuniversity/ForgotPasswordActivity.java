@@ -17,8 +17,7 @@ import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class ForgotPasswordActivity extends AppCompatActivity {
-
-    //Declaration
+    
     Button btnReset, btnBack;
     EditText edtEmail;
     ProgressBar progressBar;
