@@ -33,7 +33,6 @@ public class ApplyDetails extends AppCompatActivity {
     String[] Semester = {"Select Semester", "January - April", "May - August", "September - December"};
     String[] ExamType = {"Select Exam Type", "Normal", "Supplementary", "Special", "Retake"};
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
