@@ -40,8 +40,6 @@ public class ApplyMissingMarksActivity extends AppCompatActivity {
     ImageView imageView;
     RegisteredUnitsAdapter.OnUnitClicked onUnitClicked;
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
