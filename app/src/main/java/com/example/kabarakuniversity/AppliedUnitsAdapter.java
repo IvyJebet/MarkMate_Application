@@ -19,7 +19,6 @@ public class AppliedUnitsAdapter extends RecyclerView.Adapter<AppliedUnitsAdapte
     Context context;
     static OnUnitClicked onUnitClicked;
 
-
     public AppliedUnitsAdapter(ArrayList<MissingMarks> marks, Context context, OnUnitClicked onMessageClicked) {
         this.marks = marks;
         this.context = context;
