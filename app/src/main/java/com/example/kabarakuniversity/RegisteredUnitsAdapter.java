@@ -16,8 +16,7 @@ public class RegisteredUnitsAdapter extends RecyclerView.Adapter<RegisteredUnits
     private final ArrayList<RegisteredUnit> registeredunits;
     Context context;
     static OnUnitClicked onUnitClicked;
-
-
+    
     public RegisteredUnitsAdapter(ArrayList<RegisteredUnit> jobs, Context context, OnUnitClicked onMessageClicked) {
         this.registeredunits = jobs;
         this.context = context;
