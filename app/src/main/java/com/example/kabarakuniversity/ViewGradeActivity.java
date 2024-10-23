@@ -81,5 +81,4 @@ public class ViewGradeActivity extends AppCompatActivity {
         });
 
     }
-
 }
