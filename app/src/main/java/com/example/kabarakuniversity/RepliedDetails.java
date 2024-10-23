@@ -74,6 +74,5 @@ public class RepliedDetails extends AppCompatActivity {
         comment.setText(studentComment);
         grade.setText(marks);
         leccomment.setText(lecturerComment);
-
     }
 }
