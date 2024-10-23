@@ -26,7 +26,6 @@ public class ViewUnits extends AppCompatActivity {
     ImageView imageView;
     UnitsAdapter.OnUnitClicked onUnitClicked;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
