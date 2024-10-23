@@ -127,4 +127,5 @@ public class GradedMarks {
     public void setLecturerComment(String lecturerComment) {
         LecturerComment = lecturerComment;
     }
+    
 }
