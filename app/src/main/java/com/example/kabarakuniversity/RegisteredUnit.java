@@ -8,7 +8,6 @@ public class RegisteredUnit {
     String StudentName;
     String RegNo;
 
-
     public RegisteredUnit(String unitName, String unitCode, String lecturerName, String stage, String studentName, String regNo) {
         UnitName = unitName;
         UnitCode = unitCode;
