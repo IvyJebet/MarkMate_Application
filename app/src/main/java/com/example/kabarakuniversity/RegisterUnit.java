@@ -69,7 +69,6 @@ public class RegisterUnit extends AppCompatActivity {
         binding.tvUnitCode.setText(code);
         binding.tvLecturerName.setText(lecturer);
         binding.tvStage.setText(stage);
-
     }
 
     private void registerUnit(TextView unitname, TextView unitcode,  TextView lecturername,  TextView unitstage, EditText student, EditText regNo) {
