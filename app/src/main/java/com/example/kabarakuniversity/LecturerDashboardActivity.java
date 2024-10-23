@@ -54,7 +54,6 @@ public class LecturerDashboardActivity extends AppCompatActivity {
         BottomNavigationView bottomNavigationView = findViewById(R.id.bottomNavigationView);
         bottomNavigationView.setOnNavigationItemSelectedListener(navListener);
 
-
     }
 
     private BottomNavigationView.OnNavigationItemSelectedListener navListener =
