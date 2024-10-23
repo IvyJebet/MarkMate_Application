@@ -51,7 +51,6 @@ public class AwardMarksActivity extends AppCompatActivity {
         edLecturerComment = findViewById(R.id.etLecturerComment);
         LL_reply = findViewById(R.id.LL_reply);
 
-
         String regNo = getIntent().getStringExtra("regNo");
         String studentName = getIntent().getStringExtra("studentName");
         String unitName = getIntent().getStringExtra("unitName");
