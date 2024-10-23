@@ -66,7 +66,6 @@ public class AddUnit extends AppCompatActivity {
                     return;
                 }
 
-
                 addUnit(etUnitName,etUnitCode,etLecturer,etStage);
                 Toast.makeText(AddUnit.this, "You have successfully added the Unit", Toast.LENGTH_SHORT).show();
                 startActivity(new Intent(AddUnit.this, AddedUnits.class));
