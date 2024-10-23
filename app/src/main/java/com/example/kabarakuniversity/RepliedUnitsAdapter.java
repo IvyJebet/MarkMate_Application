@@ -19,7 +19,6 @@ public class RepliedUnitsAdapter extends RecyclerView.Adapter<RepliedUnitsAdapte
     Context context;
     static OnUnitClicked onUnitClicked;
 
-
     public RepliedUnitsAdapter(ArrayList<GradedMarks> grades, Context context, OnUnitClicked onMessageClicked) {
         this.grades = grades;
         this.context = context;
