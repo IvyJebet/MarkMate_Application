@@ -70,5 +70,6 @@ public class MissingMarkDetails extends AppCompatActivity {
         year.setText(examYear);
         exam.setText(examType);
         comment.setText(studentComment);
+        
     }
 }
