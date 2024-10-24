@@ -63,7 +63,6 @@
                 android:layout_marginTop="15sp"
                 android:padding="10sp"
                 android:visibility="gone" />
-
         </RelativeLayout>
 
     </RelativeLayout>
