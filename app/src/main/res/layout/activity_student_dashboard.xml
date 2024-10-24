@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:background="#850B1D"
     tools:context=".StudentDashboardActivity">
-
     <TextView
         android:id="@+id/titleHome"
         android:layout_width="wrap_content"
