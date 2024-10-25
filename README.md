@@ -1,6 +1,6 @@
 <h2 align="left">
      MarkMate Android Application
-    <img src="C:\Users\dombo\Pictures\Screenshots\Screenshot 2024-10-18 092825.png" width="30" height="30" alt="Logo">
+    <img src="drawable/logo.png" width="30" height="30" alt="Logo">
 </h2>
 
 ## Project Overview
