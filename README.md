@@ -1,6 +1,6 @@
 <h2 align="left">
      MarkMate Android Application
-    <img src="drawable/logo.png" width="30" height="30" alt="Logo">
+    <img src="app/src/main/res/drawable/logo.png" width="30" height="30" alt="Logo">
 </h2>
 
 ## Project Overview
