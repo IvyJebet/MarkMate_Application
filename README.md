@@ -1,4 +1,7 @@
-## MarkMate Android Application
+<h2 align="left">
+    ## MarkMate Android Application
+    <img src="C:\Users\dombo\Pictures\Screenshots\Screenshot 2024-10-18 092825.png" width="30" height="30" alt="Logo">
+</h2>
 
 ## Project Overview
 The Application is designed to streamline the process of grade management and inquiry for university students, particularly addressing the issue of missing marks. MarkMate is a mobile application that facilitates secure and efficient interactions between students and lecturers regarding academic records, offering features like a user-friendly student dashboard for unit registration, apply for missing marks and grade viewing, as well as a lecturer dashboard for adding new units, managing records for missing marks applications, and oversee grading process. The app is designed for intuitive navigation and responsive use across devices, enhancing the transparency and efficiency of the academic evaluation process.
